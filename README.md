@@ -1,1 +1,2 @@
-# compilers_programming_CS502
+# Compiling and Programming Systems (CS502) projects
+1. Analysis over uninitilized variables
